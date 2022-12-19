@@ -2,6 +2,7 @@
 
 ![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=israel-fontes&show_icons=true&theme=synthwave)
 
+
 ## Technologies i'm currently studyng
 <div style = "display : inline_block"><br/>
  <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" aling="center">
